@@ -9,7 +9,7 @@
         <a class="footer__logo logo" href="/">
           <img
               class="logo__image"
-              src="./images/logo-light.svg"
+              src="@/images/logo-light.svg"
               alt="Positivus"
               width="180" height="29" loading="lazy"
           />

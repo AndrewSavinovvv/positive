@@ -24,7 +24,7 @@
             </div>
             <img
                 class="hero__image"
-                src="./images/hero-bg.svg"
+                src="@/images/hero-bg.svg"
                 alt=""
                 width="600" height="515" loading="lazy"
             />
@@ -35,7 +35,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/amazon.svg"
+                    src="@/images/partners/amazon.svg"
                     alt="Amazon"
                     width="130" height="48" loading="lazy"
                 />
@@ -43,7 +43,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/dribble.svg"
+                    src="@/images/partners/dribble.svg"
                     alt="Dribble"
                     width="130" height="48" loading="lazy"
                 />
@@ -51,7 +51,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/hubspot.svg"
+                    src="@/images/partners/hubspot.svg"
                     alt="HubSpot"
                     width="130" height="48" loading="lazy"
                 />
@@ -59,7 +59,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/notion.svg"
+                    src="@/images/partners/notion.svg"
                     alt="Notion"
                     width="130" height="48" loading="lazy"
                 />
@@ -67,7 +67,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/netflix.svg"
+                    src="@/images/partners/netflix.svg"
                     alt="Netflix"
                     width="130" height="48" loading="lazy"
                 />
@@ -75,7 +75,7 @@
               <li class="hero__partners-item">
                 <img
                     class="hero__partners-image"
-                    src="./images/partners/zoom.svg"
+                    src="@/images/partners/zoom.svg"
                     alt="Zoom"
                     width="130" height="48" loading="lazy"
                 />
@@ -114,7 +114,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/1.svg"
+                    src="@/images/services/1.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -138,7 +138,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/2.svg"
+                    src="@/images/services/2.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -162,7 +162,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/3.svg"
+                    src="@/images/services/3.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -186,7 +186,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/4.svg"
+                    src="@/images/services/4.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -210,7 +210,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/5.svg"
+                    src="@/images/services/5.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -234,7 +234,7 @@
                 </div>
                 <img
                     class="service-card__image"
-                    src="./images/services/6.svg"
+                    src="@/images/services/6.svg"
                     alt=""
                     width="210" height="170" loading="lazy"
                 />
@@ -257,7 +257,7 @@
               </div>
               <img
                   class="banner__image hidden-mobile"
-                  src="./images/banner-bg.svg"
+                  src="@/images/banner-bg.svg"
                   alt=""
                   width="494" height="394" loading="lazy"
               />
@@ -416,7 +416,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/1.svg"
+                      src="@/images/team/1.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />
@@ -443,7 +443,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/2.svg"
+                      src="@/images/team/2.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />
@@ -470,7 +470,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/3.svg"
+                      src="@/images/team/3.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />
@@ -497,7 +497,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/4.svg"
+                      src="@/images/team/4.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />
@@ -524,7 +524,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/5.svg"
+                      src="@/images/team/5.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />
@@ -551,7 +551,7 @@
                 <header class="team-card__header">
                   <img
                       class="team-card__image"
-                      src="./images/team/6.svg"
+                      src="@/images/team/6.svg"
                       alt=""
                       width="100" height="100" loading="lazy"
                   />

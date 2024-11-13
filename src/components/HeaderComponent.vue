@@ -8,7 +8,7 @@
       <a class="header__logo logo" href="/">
         <img
             class="logo__image"
-            src="./images/logo.svg"
+            src="@/images/logo.svg"
             alt="Positivus"
             width="220" height="36" loading="lazy"
         />
